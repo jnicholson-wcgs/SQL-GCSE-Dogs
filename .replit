@@ -1,0 +1,3 @@
+run="sqlite3 main.py"
+language="sqlite3"
+onBoot="SQLite Here We Go"
